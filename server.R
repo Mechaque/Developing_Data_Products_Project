@@ -1,3 +1,5 @@
+
+
 library(shiny)
 
 shinyServer(function(input,output){
@@ -37,3 +39,5 @@ output$text1 = calc_sum
 
   
 })
+
+
